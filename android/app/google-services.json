@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "420210597479",
+    "project_id": "yacht-4b0d1",
+    "storage_bucket": "yacht-4b0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420210597479:android:ed547ccaf2577dd6d3fec2",
+        "android_client_info": {
+          "package_name": "com.example.yacht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420210597479-sl3fs18ho3q1cuacilu8pu4v7snq5hjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ByE-oHeg9gC3cKirwGb7LwCPYIuvHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420210597479-sl3fs18ho3q1cuacilu8pu4v7snq5hjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420210597479-71obhp6l0pdmtlaobo9s0nqn9ilnknjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airbnbAppUi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420210597479:android:8f70977e40f8ddfad3fec2",
+        "android_client_info": {
+          "package_name": "com.yacht.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420210597479-sl3fs18ho3q1cuacilu8pu4v7snq5hjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ByE-oHeg9gC3cKirwGb7LwCPYIuvHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420210597479-sl3fs18ho3q1cuacilu8pu4v7snq5hjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420210597479-71obhp6l0pdmtlaobo9s0nqn9ilnknjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airbnbAppUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
